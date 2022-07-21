@@ -24,7 +24,7 @@
                 <fieldMappingFields>
                     <dataServiceField>BillingCity</dataServiceField>
                     <dataServiceObjectName>Account</dataServiceObjectName>
-                    <priority>1</priority>
+                    <priority>2</priority>
                 </fieldMappingFields>
                 <fieldName>City</fieldName>
                 <mappingOperation>Autofill</mappingOperation>
