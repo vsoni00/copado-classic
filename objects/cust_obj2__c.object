@@ -154,7 +154,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>cust_obj2</label>
     <nameField>
-        <label>cust_obj2 Name change from GIT</label>
+        <label>cust_obj2 Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>cust_objs2</pluralLabel>

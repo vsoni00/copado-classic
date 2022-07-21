@@ -152,7 +152,7 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>cust_obj1 change from GIT</label>
+    <label>cust_obj1</label>
     <nameField>
         <label>cust_obj1 Name</label>
         <type>Text</type>
