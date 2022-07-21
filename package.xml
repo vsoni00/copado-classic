@@ -2,7 +2,14 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>demo_vf</members>
+        <members>dummy_vf</members>
+        <members>test_vf</members>
         <name>ApexPage</name>
+    </types>
+    <types>
+        <members>cust_obj1__c</members>
+        <members>cust_obj2__c</members>
+        <name>CustomObject</name>
     </types>
     <version>55.0</version>
 </Package>
