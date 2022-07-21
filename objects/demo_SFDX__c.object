@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>demo SFDX</label>
     <nameField>
-        <label>demo SFDX Name</label>
+        <label>demo SFDX Name change from GIT</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>demo SFDX</pluralLabel>
